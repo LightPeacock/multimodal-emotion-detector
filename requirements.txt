@@ -1,0 +1,8 @@
+deepface
+opencv-python
+transformers
+sounddevice
+scipy
+torch
+torchaudio
+tf-keras

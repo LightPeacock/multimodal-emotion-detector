@@ -1,0 +1,19 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+emotion_env/
+venv/
+ENV/
+
+# OS specific files (Mac)
+.DS_Store
+
+# Temporary capture files from our script
+last_capture.wav
+last_capture.jpg
+temp_audio.wav
+
+# IDE files (if you use VS Code, PyCharm, etc.)
+.vscode/
+.idea/
